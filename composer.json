@@ -1,0 +1,12 @@
+{
+    "name": "rolandmarvel/velphp",
+    "autoload":
+    {
+        "psr-4":
+        {
+            "app\\": "./"
+        }
+    },
+    "require":
+    {}
+}
